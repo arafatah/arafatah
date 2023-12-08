@@ -52,3 +52,4 @@ You can add additional sections like current projects, learning goals, or anythi
 -->
 
 *Feel free to customize this template according to your preferences and add or remove sections as needed.*
+
