@@ -18,7 +18,7 @@ I specialize in turning design ideas into reality using React.js. From responsiv
 
 ### 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafatah&show_icons=true&count_private=true&hide=issues,contribs&title_color=2ecc71&icon_color=3498db&text_color=555555&bg_color=ffffff)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafatah&show_icons=true&theme=radical&count_private=true&hide=issues,contribs&title_color=2ecc71&icon_color=3498db&text_color=555555&bg_color=ffffff)
 
 ### 🔧 Tech Stack
 
