@@ -8,11 +8,9 @@ Welcome to my GitHub profile! I'm MD. Arafat Howlader, a passionate MERN stack d
 
 I am enthusiastic about building web applications and exploring new technologies. My goal is to create meaningful and impactful software solutions.
 
-### 🎨 Banner
 
-![Your Banner](https://raw.githubusercontent.com/arafatah/arafatah/main/Blue%20Textured%20Space%20Landscape%20Hello%20World%20Desktop%20Wallpaper.png)
+![My Banner](https://raw.githubusercontent.com/arafatah/arafatah/main/Blue%20Textured%20Space%20Landscape%20Hello%20World%20Desktop%20Wallpaper.png)
 
-*Add a customized banner to give a unique and personalized touch to your profile.*
 
 ### 📊 GitHub Stats
 
@@ -30,16 +28,14 @@ I am enthusiastic about building web applications and exploring new technologies
 
 Here are some of the technologies I'm familiar with:
 
-![React](https://raw.githubusercontent.com/tandpfun/skill-icons/main/react.svg) ![JavaScript](https://raw.githubusercontent.com/tandpfun/skill-icons/main/javascript.svg) ![Node.js](https://raw.githubusercontent.com/tandpfun/skill-icons/main/nodejs.svg) ![Express.js](https://raw.githubusercontent.com/tandpfun/skill-icons/main/express.svg) ![MongoDB](https://raw.githubusercontent.com/tandpfun/skill-icons/main/mongodb.svg)
+[![React](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) ![JavaScript](https://raw.githubusercontent.com/tandpfun/skill-icons/main/javascript.svg) ![Node.js](https://raw.githubusercontent.com/tandpfun/skill-icons/main/nodejs.svg) ![Express.js](https://raw.githubusercontent.com/tandpfun/skill-icons/main/express.svg) ![MongoDB](https://raw.githubusercontent.com/tandpfun/skill-icons/main/mongodb.svg)
 
 *Utilize the Skill Icons to showcase your tech knowledge.*
 
 ### 📫 Reach Me
 
-- **LinkedIn**: [Your LinkedIn Profile](Your_LinkedIn_Profile_URL)
-- **Facebook**: [Your Facebook Profile](Your_Facebook_Profile_URL)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/md-arafat-howlader-688a39183/)
 
-*Feel free to reach out to me through LinkedIn or Facebook. I'm open to collaboration and always excited to connect with fellow developers.*
 
 ### ⚡ Fun Fact
 
@@ -47,9 +43,5 @@ I love exploring new coding challenges and experimenting with creative coding pr
 
 *Thanks for visiting my GitHub profile! 😊*
 
-<!--
-You can add additional sections like current projects, learning goals, or anything else you'd like to highlight.
--->
 
-*Feel free to customize this template according to your preferences and add or remove sections as needed.*
 
