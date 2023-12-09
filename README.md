@@ -12,30 +12,25 @@ I am enthusiastic about building web applications and exploring new technologies
 ![My Banner](https://raw.githubusercontent.com/arafatah/arafatah/main/Blue%20Textured%20Space%20Landscape%20Hello%20World%20Desktop%20Wallpaper.png)
 
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafatah&show_icons=true&count_private=true&hide=issues,contribs&title_color=2ecc71&icon_color=3498db&text_color=555555&bg_color=ffffff)
-
-*Show your GitHub stats using the GitHub Stats card. You can customize the parameters based on your preferences.*
-
 ### 🌟 Streak Status
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arafatah&fire=2ecc71&ring=3498db&currStreakNum=555555&sideNums=555555&currStreakLabel=555555&sideLabels=555555&dates=555555)
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arafatah&fire=2ecc71&ring=3498db&currStreakNum=555555&sideNums=555555&currStreakLabel=555555&sideLabels=555555&dates=555555)
 
-*Display your GitHub streak using the Readme Streak Stats. It adds a visually appealing streak counter to your profile.*
+
+### 📊 GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafatah&show_icons=true&count_private=true&hide=issues,contribs&title_color=2ecc71&icon_color=3498db&text_color=555555&bg_color=ffffff)
 
 ### 🔧 Tech Stack
 
 Here are some of the technologies I'm familiar with:
 
-[![React](https://skillicons.dev/icons?i=js,html,css,react,figma,javascript,nodejs,express,mongodb)](https://skillicons.dev) 
-
-*Utilize the Skill Icons to showcase your tech knowledge.*
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,figma,javascript,nodejs,express,mongodb,tailwind,firebase,git,github,postman)](https://skillicons.dev) 
 
 ### 📫 Reach Me
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/md-arafat-howlader-688a39183/)
-
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/md-arafat-howlader-688a39183/)
+- **My Email**: [My Email](arafathowlader456@gmail.com)
 
 ### ⚡ Fun Fact
 
