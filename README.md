@@ -10,7 +10,7 @@ I am enthusiastic about building web applications and exploring new technologies
 
 ### 🎨 Banner
 
-![Your Banner](URL_TO_YOUR_BANNER_IMAGE)
+![Your Banner](https://raw.githubusercontent.com/arafatah/arafatah/main/Blue%20Textured%20Space%20Landscape%20Hello%20World%20Desktop%20Wallpaper.png)
 
 *Add a customized banner to give a unique and personalized touch to your profile.*
 
