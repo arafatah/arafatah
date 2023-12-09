@@ -28,7 +28,7 @@ I am enthusiastic about building web applications and exploring new technologies
 
 Here are some of the technologies I'm familiar with:
 
-[![React](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) ![JavaScript](https://raw.githubusercontent.com/tandpfun/skill-icons/main/javascript.svg) ![Node.js](https://raw.githubusercontent.com/tandpfun/skill-icons/main/nodejs.svg) ![Express.js](https://raw.githubusercontent.com/tandpfun/skill-icons/main/express.svg) ![MongoDB](https://raw.githubusercontent.com/tandpfun/skill-icons/main/mongodb.svg)
+[![React](https://skillicons.dev/icons?i=js,html,css,react,figma,javascript,nodejs,express,mongodb)](https://skillicons.dev) 
 
 *Utilize the Skill Icons to showcase your tech knowledge.*
 
