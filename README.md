@@ -13,7 +13,7 @@ I specialize in turning design ideas into reality using React.js. From responsiv
 
 ### 🌟 Streak Status
 
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arafatah&fire=2ecc71&ring=3498db&currStreakNum=555555&sideNums=555555&currStreakLabel=555555&sideLabels=555555&dates=555555)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arafatah&theme=github-dark-blue&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=650)](https://git.io/streak-stats)
 
 
 ### 📊 GitHub Stats
