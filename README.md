@@ -35,7 +35,7 @@ Here are some of the technologies I'm familiar with:
 
 I love exploring new coding challenges and experimenting with creative coding projects. Let's code something amazing together!
 
-*Thanks for visiting my GitHub profile! 😊*
+*Thanks for visiting my GitHub profile! 😊* 
 
 
 
