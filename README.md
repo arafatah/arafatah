@@ -16,9 +16,13 @@ I specialize in turning design ideas into reality using React.js. From responsiv
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arafatah&theme=github-dark-blue&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=650)](https://git.io/streak-stats)
 
 
-### 📊 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafatah&show_icons=true&theme=radical&count_private=true&hide=issues,contribs&title_color=2ecc71&icon_color=3498db&text_color=555555&bg_color=ffffff)
+## 🎖 github stats
+<a href="https://github.com/arafatah">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arafatah&theme=vue-dark&show_icons=true&rank_icon=percentile&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/arafatah">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafatah&theme=vue-dark&layout=compact&langs_count=8&card_width=320&hide_border=true&count_private=true" />
+</a>
 
 ### 🔧 Tech Stack
 
