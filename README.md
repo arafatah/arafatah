@@ -30,7 +30,10 @@ I specialize in turning design ideas into reality using React.js. From responsiv
 
 Here are some of the technologies I'm familiar with:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,figma,javascript,nodejs,express,mongodb,tailwind,firebase,git,github,postman)](https://skillicons.dev) 
+## 👨🏼‍💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,svg,ts,js,bootstrap,tailwind,firebase,mongodb,mysql,express,nodejs,react,nextjs,redux,gsap,netlify,git,github,githubactions,gitlab,codepen,linux,yarn,npm,pnpm,gradle,gulp,vite,webpack,postman,regex,vercel,visualstudio,vscode,ai,ps,figma,xd&perline=10)](https://www.linkedin.com/in/md-arafat-howlader/)
+
+
 
 
 ## 📬 Get in Touch
@@ -40,7 +43,6 @@ Here are some of the technologies I'm familiar with:
 - Connect with me on [Twitter](https://twitter.com/arafathowlader3)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
 
 
 <p align="left"> <a href="https://twitter.com/arafathowlader3" target="blank"><img src="https://img.shields.io/twitter/follow/arafathowlader3?logo=twitter&style=for-the-badge" alt="arafatah" /></a> </p>
