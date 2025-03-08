@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-I'm Arafat, a passionate MERN stack developer based in [Bangladesh]. I'm on a mission to create seamless and engaging web experiences with a primary focus on the frontend.
+I'm Arafat, a passionate Full stack developer based in [Bangladesh]. I'm on a mission to create seamless and engaging web experiences with a primary focus on the frontend.
 
 🚀 **What I Do:**
 I specialize in turning design ideas into reality using React.js. From responsive user interfaces to dynamic web applications, I love bringing concepts to life with clean and efficient code.
