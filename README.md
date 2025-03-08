@@ -30,16 +30,18 @@ Here are some of the technologies I'm familiar with:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,figma,javascript,nodejs,express,mongodb,tailwind,firebase,git,github,postman)](https://skillicons.dev) 
 
-### 📫 Reach Me
 
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/md-arafat-howlader-688a39183/)
-- **My Email**: [My Email](arafathowlader456@gmail.com)
+## 📬 Get in Touch
 
-### ⚡ Fun Fact
+- Connect with me on [linkedin](https://www.linkedin.com/in/md-arafat-howlader/)
+- Check out my [Website](https://arafat-howlader-portfolio.netlify.app/)
+- Connect with me on [Twitter](https://twitter.com/arafathowlader3)
 
-I love exploring new coding challenges and experimenting with creative coding projects. Let's code something amazing together!
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
-*Thanks for visiting my GitHub profile! 😊* 
 
+
+<p align="left"> <a href="https://twitter.com/arafathowlader3" target="blank"><img src="https://img.shields.io/twitter/follow/arafathowlader3?logo=twitter&style=for-the-badge" alt="arafatah" /></a> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=arafatah&label=Profile%20views&color=0e75b6&style=flat" alt="arafatah" /> </p>
 
 
