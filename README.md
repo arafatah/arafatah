@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-I'm Arafat, a passionate Full stack developer based in [Bangladesh]. I'm on a mission to create seamless and engaging web experiences with a primary focus on the frontend.
+I'm Arafat, a passionate Full stack developer based in Bangladesh. I'm on a mission to create seamless and engaging web experiences with a primary focus on the frontend.
 
 🚀 **What I Do:**
 I specialize in turning design ideas into reality using React.js. From responsive user interfaces to dynamic web applications, I love bringing concepts to life with clean and efficient code.
@@ -26,9 +26,6 @@ I specialize in turning design ideas into reality using React.js. From responsiv
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafatah&theme=vue-dark&layout=compact&langs_count=8&card_width=320&hide_border=true&count_private=true" />
 </a>
 
-### 🔧 Tech Stack
-
-Here are some of the technologies I'm familiar with:
 
 ## 👨🏼‍💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,svg,ts,js,bootstrap,tailwind,firebase,mongodb,mysql,express,nodejs,react,nextjs,redux,netlify,git,github,githubactions,gitlab,codepen,linux,yarn,npm,pnpm,gradle,gulp,vite,webpack,postman,regex,vercel,visualstudio,vscode,ai,ps,figma,xd&perline=10)](https://www.linkedin.com/in/md-arafat-howlader/)
