@@ -28,7 +28,7 @@ I specialize in turning design ideas into reality using React.js. From responsiv
 
 
 ## 👨🏼‍💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,svg,ts,js,bootstrap,tailwind,firebase,mongodb,mysql,express,nodejs,react,nextjs,redux,netlify,git,github,githubactions,gitlab,codepen,linux,yarn,npm,pnpm,gradle,gulp,vite,webpack,postman,regex,vercel,visualstudio,vscode,ai,ps,figma,&perline=10)](https://www.linkedin.com/in/md-arafat-howlader/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,ts,js,bootstrap,tailwind,firebase,mongodb,mysql,express,nodejs,react,nextjs,redux,netlify,git,github,githubactions,codepen,yarn,npm,pnpm,gulp,vite,webpack,postman,regex,vercel,visualstudio,vscode,ai,ps,figma,&perline=10)](https://www.linkedin.com/in/md-arafat-howlader/)
 
 
 
@@ -37,7 +37,7 @@ I specialize in turning design ideas into reality using React.js. From responsiv
 
 - Connect with me on [linkedin](https://www.linkedin.com/in/md-arafat-howlader/)
 - Check out my [Website](https://arafat-howlader-portfolio.netlify.app/)
-- Connect with me on [Twitter](https://twitter.com/arafathowlader3)
+- Connect with me on [Facebook](https://www.facebook.com/onearafat)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
