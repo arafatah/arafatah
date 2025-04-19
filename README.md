@@ -42,7 +42,11 @@ I specialize in turning design ideas into reality using React.js. From responsiv
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 
-<p align="left"> <a href="https://twitter.com/arafathowlader3" target="blank"><img src="https://img.shields.io/twitter/follow/arafathowlader3?logo=twitter&style=for-the-badge" alt="arafatah" /></a> </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-arafat-howlader/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Profile" />
+  </a>
+</p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=arafatah&label=Profile%20views&color=0e75b6&style=flat" alt="arafatah" /> </p>
 
 
