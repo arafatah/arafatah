@@ -1,7 +1,5 @@
 # MD. Arafat Howlader
 
-![My Banner](https://raw.githubusercontent.com/arafatah/arafatah/main/Blue%20Textured%20Space%20Landscape%20Hello%20World%20Desktop%20Wallpaper.png)
-
 <h1 align="center">Hi 👋, I'm Arafat Howlader</h1>
 <h3 align="center">A passionate Frontend Enthusiast from Bangladesh</h3>
 
