@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Arafat Howlader</h1>
-<h3 align="center">🚀 Frontend Developer | Full Stack Enthusiast from Bangladesh</h3>
+<h1 align="center">Hi, I'm Arafat Howlader</h1>
+<h3 align="center">Frontend Developer | Full Stack Enthusiast from Bangladesh</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/real-arafat-howlader/" target="_blank">
