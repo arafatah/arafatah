@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Frontend Developer | Full Stack Enthusiast from Bangladesh</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-arafat-howlader/" target="_blank">
+  <a href="https://www.linkedin.com/in/real-arafat-howlader/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://arafat-howlader-portfolio.netlify.app/" target="_blank">
@@ -63,7 +63,7 @@ I’m always eager to explore new technologies and bring creative ideas to life 
 
 ### 📬 Get in Touch  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/md-arafat-howlader/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/real-arafat-howlader/)  
 - 🌐 [Portfolio](https://arafat-howlader-portfolio.netlify.app/)  
 - 💬 [Facebook](https://www.facebook.com/onearafat)  
 
