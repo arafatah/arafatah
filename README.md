@@ -41,22 +41,17 @@ I’m always eager to explore new technologies and bring creative ideas to life 
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <a href="https://github.com/arafatah">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=arafatah&theme=vue-dark&show_icons=true&rank_icon=percentile&hide_border=true&count_private=true" alt="Arafat's GitHub stats" />
-  </a>
-  <a href="https://github.com/arafatah">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafatah&theme=vue-dark&layout=compact&langs_count=8&hide_border=true&count_private=true" alt="Top Languages" />
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=arafatah&show_icons=true&theme=vue-dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatah&layout=compact&theme=vue-dark&hide_border=true" />
 </p>
+
 
 ---
 
 ### 🔥 Streak Stats  
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=arafatah&theme=github-dark-blue&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=daily&card_width=650" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=arafatah&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
