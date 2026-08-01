@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/real-arafat-howlader/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://arafat-howlader-portfolio.netlify.app/" target="_blank">
+  <a href="https://www.arafathowlader.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://www.facebook.com/onearafat" target="_blank">
