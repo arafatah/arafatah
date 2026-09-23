@@ -55,7 +55,7 @@ I’m always eager to explore new technologies and bring creative ideas to life 
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=arafatah&theme=github-dark-blue&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=daily&card_width=650" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.www.heroku.com?user=arafatah&theme=github-dark-blue&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=daily&card_width=650" alt="GitHub Streak" />
   </a>
 </p>
 
