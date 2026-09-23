@@ -4,6 +4,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=64&text=Arafat%20Howlader&fontSize=42&fontAlignY=50&fontColor=e6edf3" />
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=64&text=Arafat%20Howlader&fontSize=42&fontAlignY=50&fontColor=1f2328" alt="Arafat Howlader" />
 </picture>
+
 Frontend Developer · React · Next.js · Bangladesh
 
 
