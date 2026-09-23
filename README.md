@@ -16,12 +16,6 @@ Frontend Developer · React · Next.js · Bangladesh
 
 </div>
 
-<br />
-
-I build fast, responsive interfaces with **React** and **Next.js**, turn designs into pixel-perfect UIs, and bring them to life with smooth animations and micro-interactions.
-
-<br />
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,sass,nodejs,express,mongodb,mysql,firebase,git,github,vercel,figma&perline=9" alt="Tech Stack" />
