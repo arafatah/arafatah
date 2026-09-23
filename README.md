@@ -1,78 +1,34 @@
-<h1 align="center">Hi, I'm Arafat Howlader</h1>
-<h3 align="center">Frontend Developer | Full Stack Enthusiast from Bangladesh</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/real-arafat-howlader/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://www.arafathowlader.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://www.facebook.com/onearafat" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook&style=for-the-badge" alt="Facebook" />
-  </a>
-</p>
+# Arafat Howlader
 
----
+Frontend Developer · Bangladesh
 
-### 🧠 About Me  
+<a href="https://www.arafathowlader.dev/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/real-arafat-howlader/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/onearafat"><img src="https://img.shields.io/badge/Facebook-0d1117?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
-Hey there! I'm **Arafat**, a passionate **Full Stack Developer** who loves crafting engaging and intuitive **frontend experiences**.  
-I’m always eager to explore new technologies and bring creative ideas to life through code.  
+</div>
 
-💡 **What I Love Doing:**  
-- ✨ Building responsive & dynamic UIs with **React.js**  
-- 🧩 Turning design prototypes into pixel-perfect web experiences  
-- ⚡ Creating smooth animations and micro-interactions  
-- 🌍 Deploying modern web apps using **Next.js**, **Vercel**, and **Firebase**  
+<br />
 
----
+I build fast, responsive interfaces with **React** and **Next.js**, turn designs into pixel-perfect UIs, and bring them to life with smooth animations and micro-interactions.
 
-### ⚙️ Tech Stack  
+<br />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-arafat-howlader/">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,bootstrap,tailwind,react,nextjs,redux,nodejs,express,mongodb,mysql,firebase,vite,webpack,git,github,githubactions,netlify,vercel,figma,ai,ps,vscode,postman&perline=10" />
-  </a>
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,sass,nodejs,express,mongodb,mysql,firebase,git,github,vercel,figma&perline=9" alt="Tech Stack" />
 
-### 📊 GitHub Stats  
+<br /><br />
 
-<p align="center">
-  <a href="https://github.com/arafatah">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=arafatah&theme=vue-dark&show_icons=true&rank_icon=percentile&hide_border=true&count_private=true" alt="Arafat's GitHub stats" />
-  </a>
-  <a href="https://github.com/arafatah">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafatah&theme=vue-dark&layout=compact&langs_count=8&hide_border=true&count_private=true" alt="Top Languages" />
-  </a>
-</p>
+<a href="https://github.com/arafatah"><img height="165" src="https://github-stats-extended.vercel.app/api?username=arafatah&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github&hide_border=true" alt="GitHub Stats" /></a>
+<a href="https://github.com/arafatah"><img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=arafatah&layout=pie&langs_count=6&theme=dark_github&hide_border=true" alt="Top Languages" /></a>
 
----
+<a href="https://github.com/arafatah"><img src="https://github-readme-streak-stats.herokuapp.com?user=arafatah&theme=github-dark-blue&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
-### 🔥 Streak Stats  
+<br /><br />
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=arafatah&theme=github-dark-blue&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=daily&card_width=650" alt="GitHub Streak" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=arafatah&label=views&color=30363d&style=flat-square" alt="Profile Views" />
 
----
-
-### 📬 Get in Touch  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/real-arafat-howlader/)  
-- 🌐 [Portfolio](https://arafat-howlader-portfolio.netlify.app/)  
-- 💬 [Facebook](https://www.facebook.com/onearafat)  
-
-<p align="center">
-  Thanks for stopping by! Let’s connect and build something amazing together 🚀  
-</p>
-
----
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=arafatah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</div>
