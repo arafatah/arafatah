@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=64&text=Arafat%20Howlader&fontSize=42&fontAlignY=50&fontColor=1f2328" alt="Arafat Howlader" />
 </picture>
 
-Frontend Developer · React · Next.js · Bangladesh
+Frontend Developer · React · Next.js 
 
 
 <a href="https://www.arafathowlader.dev/"><img src="https://img.shields.io/badge/arafathowlader.dev-21262d?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
